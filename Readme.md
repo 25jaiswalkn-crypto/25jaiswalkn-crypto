@@ -1,8 +1,12 @@
 # ✦ KHUSHI JAISWAL
 
-\<p align="center">
-&#x20; \<img src="assets/khushi-orbital-profile.gif" width="100%" alt="Khushi Jaiswal - animated profile banner"/>
-\</p>
+<p align="center">
+  <img src="assets/khushi-orbital-profile.gif" width="100%" alt="Khushi Jaiswal - animated galaxy profile banner"/>
+</p>
+
+<p align="center">
+  <a href="https://25jaiswalkn-crypto.github.io/">✦ EXPLORE MY INTERACTIVE UNIVERSE ✦</a>
+</p>
 
 ## Hey, I'm Khushi! ✨
 
@@ -18,13 +22,13 @@ I like learning by doing — from creating web experiences to experimenting with
 
 ## ✧ Selected Projects
 
-| Project                                                                      | Description                                                     |
-| :--------------------------------------------------------------------------- | :-------------------------------------------------------------- |
-| [GDG Frontend Task](https://github.com/25jaiswalkn-crypto/gdg-frontend-task) | Responsive website built with Next.js and TypeScript.           |
-| [Event Management API](https://github.com/25jaiswalkn-crypto/Event-API)      | Full-stack event platform with authentication and registration. |
-| [AI Grievance App](https://github.com/25jaiswalkn-crypto/ai_grievance-App)   | Grievance application with sentiment analysis and dashboard.    |
-| [Spider-Man](https://github.com/25jaiswalkn-crypto/Spiderman)                | Interactive two-page fan concept website.                       |
-| [Unsolved Bharat](https://github.com/25jaiswalkn-crypto/Unsolved-Bharat)     | Collaborative mystery-themed website.                           |
+| **Project** | **Description** |
+|---|---|
+| [GDG Frontend Task](https://github.com/25jaiswalkn-crypto/gdg-frontend-task) | Responsive website built with Next.js and TypeScript. |
+| [Event Management API](https://github.com/25jaiswalkn-crypto/Event-API) | Full-stack event platform with authentication and registration. |
+| [AI Grievance App](https://github.com/25jaiswalkn-crypto/ai_grievance-App) | Grievance application with sentiment analysis and dashboard. |
+| [Spider-Man](https://github.com/25jaiswalkn-crypto/Spiderman) | Interactive two-page fan concept website. |
+| [Unsolved Bharat](https://github.com/25jaiswalkn-crypto/Unsolved-Bharat) | Collaborative mystery-themed website. |
 
 ## ⟡ Technologies I'm Exploring
 
@@ -42,8 +46,8 @@ Git · GitHub · VS Code
 
 ---
 
-\<p align="center">
-&#x20; \<i>Made of curiosity, code and a little bit of chaos.\</i>
-&#x20; \<br/>
-&#x20; ✦ &nbsp; KHUSHI &nbsp; ✦
-\</p>
+<p align="center">
+  <i>Made of curiosity, code and a little bit of chaos.</i>
+  <br/>
+  ✦ KHUSHI ✦
+</p>
