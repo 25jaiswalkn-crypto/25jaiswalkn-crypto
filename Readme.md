@@ -4,10 +4,6 @@
   <img src="assets/khushi-orbital-profile.gif" width="100%" alt="Khushi Jaiswal - animated galaxy profile banner"/>
 </p>
 
-<p align="center">
-  <a href="https://25jaiswalkn-crypto.github.io/">✦ EXPLORE MY INTERACTIVE UNIVERSE ✦</a>
-</p>
-
 ## Hey, I'm Khushi! ✨
 
 **Computer Science Undergraduate ·**
