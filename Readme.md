@@ -1,9 +1,3 @@
-# ✦ KHUSHI JAISWAL
-
-<p align="center">
-  <img src="assets/khushi-orbital-profile.gif" width="100%" alt="Khushi Jaiswal - animated galaxy profile banner"/>
-</p>
-
 ## Hey, I'm Khushi! ✨
 
 **Computer Science Undergraduate ·**
